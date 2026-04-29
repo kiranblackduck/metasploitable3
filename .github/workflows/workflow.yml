@@ -1,4 +1,4 @@
-name: "Upload SARIF-now"
+name: "Upload SARIF-now1"
 
 on:
   push:
